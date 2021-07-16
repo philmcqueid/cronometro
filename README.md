@@ -1,4 +1,5 @@
 ## Cronômetro simples
 - Criação do projeto
-- Criação do tile
+- Criação do title
+- Iniciando o CSS
 

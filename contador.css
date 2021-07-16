@@ -13,7 +13,7 @@ body{
 /*Caixa com a título*/
 article{
     color: white;
-    width: 300px;
+    width: 400px;
     text-align: center;
     background-color: #68b04d;
     border-radius: 10px;
@@ -23,3 +23,7 @@ article{
     box-shadow: 3px 3px 10px #ccc;
 }
 
+article h3{
+    padding: 10px;
+    color: white;
+}
