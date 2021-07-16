@@ -27,3 +27,14 @@ article h3{
     padding: 10px;
     color: white;
 }
+
+article .count {
+    padding: 5px;
+}
+
+article #timer{
+    padding: 5px;
+    color: crimson;
+    background-color:aliceblue;
+    border-radius: 2px;
+}
