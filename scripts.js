@@ -1,1 +1,10 @@
-console.log("Olá mundo");
+class Quadrado {
+    constructor(base, altura) {
+        this.base = base;
+        this.altura = altura;
+    }
+
+
+}
+
+
